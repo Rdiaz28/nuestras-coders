@@ -19,12 +19,12 @@
 }
 
 
-.linea{ 
-	border-bottom: solid #000;
+hr{ 
 	width: 80px;
-	height: 2px;
-
+	margin-left: 0;
+	border:solid black 2px;
 }
+
 .img1{
 	background-image: url(../img/profile-1.png);
 	float: left;
